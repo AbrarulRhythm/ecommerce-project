@@ -1,1 +1,1 @@
-# ecommerce-project
+# css-ecommerce-project
